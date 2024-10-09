@@ -14,6 +14,7 @@ namespace TestConsole
             Console.WriteLine("Hello World!");
             Console.WriteLine("Adrien");
             Console.ReadKey();
+            Console.WriteLine("Bienvenu dans mon monde");
         }
     }
 }
