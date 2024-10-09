@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A841C3C2-C660-4922-9230-8B616F6389D5}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A841C3C2-C660-4922-9230-8B616F6389D5}|TestConsole\\TestConsole.csproj|c:\\users\\adrien goncalves\\source\\repos\\testconsole\\testconsole\\bonjourmonde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A841C3C2-C660-4922-9230-8B616F6389D5}|TestConsole\\TestConsole.csproj|C:\\Users\\adrien goncalves\\source\\repos\\TestConsole\\testconsole\\bonjourmonde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A841C3C2-C660-4922-9230-8B616F6389D5}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\bonjourmonde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "TestConsole\\BonjourMonde.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:20:21.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:20:21.865Z"
             },
             {
               "$type": "Document",
