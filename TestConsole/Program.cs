@@ -15,6 +15,7 @@ namespace TestConsole
             Console.WriteLine("Adrien");
             Console.ReadKey();
             Console.WriteLine("Bienvenu dans mon monde");
+            Console.WriteLine("On s'écarte");
         }
     }
 }
